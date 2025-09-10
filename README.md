@@ -8,8 +8,6 @@ SQL project to analyze online music store data
 Schema- Music Store Database  
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 
-Based on the files provided and your request to remove the video reference, here is an updated README file for the music store data analysis project.
-
 ### SQL_Project_Music_Store_Analysis
 
 **Project Description:**
